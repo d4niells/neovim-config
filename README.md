@@ -15,7 +15,7 @@ I made this dumb tutorial 'cause I forget every time I need to do this shit 💩
 rm -rf ~/.config/nvim
 ```
 ## Install 
-I use Linux btw and these steps below are only for linux users sorry.
+I use Linux btw and these steps below are only for linux users.
 
 ### Neovim
 Installing the [latest neovim version](https://github.com/neovim/neovim/wiki/Installing-Neovim/921fe8c40c34dd1f3fb35d5b48c484db1b8ae94b#linux) using AppImage on Linux:
