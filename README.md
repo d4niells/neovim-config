@@ -39,7 +39,7 @@ sudo mv squashfs-root / && ln -s /squashfs-root/AppRun /usr/bin/nvim && nvim
 ```
 
 ### NvChad pre-requisites
-Ripgrep is required for grep searching with Telescope
+[Ripgrep](https://github.com/BurntSushi/ripgrep) is required for grep searching with Telescope
 ```bash
 sudo apt install ripgrep gcc make
 ```
