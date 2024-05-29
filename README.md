@@ -55,7 +55,7 @@ sudo apt install wget fontconfig \
 
 ### My configs
 ```bash
-git clone https://github.com/d4niells/neovim-config.git ~/.config/nvim && nvim
+git clone git@github.com:d4niells/neovim-config.git ~/.config/nvim && nvim
 ```
 - Run :MasonInstallAll command after lazy.nvim finishes downloading plugins.
 - Delete the .git folder from nvim folder or change the git remote if you aren't me, because I'm not interesting in your changes.
